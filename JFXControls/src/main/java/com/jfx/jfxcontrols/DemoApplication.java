@@ -1,4 +1,4 @@
-package com.example.jfxcontrols;
+package com.jfx.jfxcontrols;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

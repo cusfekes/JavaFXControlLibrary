@@ -4,6 +4,7 @@ module com.example.jfxcontrols {
 
     requires org.kordamp.ikonli.javafx;
 
-    opens com.example.jfxcontrols to javafx.fxml;
-    exports com.example.jfxcontrols;
+    opens com.jfx.jfxcontrols to javafx.fxml;
+    opens com.jfx.jfxcontrols.library;
+    exports com.jfx.jfxcontrols;
 }
