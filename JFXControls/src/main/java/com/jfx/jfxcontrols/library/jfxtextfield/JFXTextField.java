@@ -1,4 +1,4 @@
-package com.jfx.jfxcontrols.library;
+package com.jfx.jfxcontrols.library.jfxtextfield;
 
 import javafx.scene.control.TextField;
 
